@@ -1,5 +1,4 @@
-O crud esta funcionando 100% todas funçoes e rotas.
-
+O crud esta funcionando 100% todas funçoes e rotas mas sem fron end, apenas logica do back end com bd.
 Respotas sobre cada dependencia:
 nodemon:Monitora mudanças no codigo e renicia automaticamente atualizando o servidor.
 express:Framework pro node, ele facilita a criação de servidor e api.
